@@ -1,0 +1,1 @@
+export const apiKey = require('../config.json').openaiApiKey;
