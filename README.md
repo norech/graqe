@@ -1,8 +1,12 @@
+> [!NOTE]
+> This experimental project is part of academic work related to computer science and artificial intelligence with an emphasis on human-computer interaction. You can read my report ["*GRAQE - Guided Robot: Autonomous Quest for Escape*"](./report.pdf) for a comprehensive overview of the research, methodology and design involved in this work, as well as observed results.
+
 # GRAQE
 
 ![Demo of the system](./static/demo.png)
 
-> GRAQE is an experimental system taking the form of a multi-agent textual “escape game”. In this system, the player will guide an AI agent through an environment and have this agent execute actions exploring further the surrounding environment. The player will get a grasp of the environment through their interactions with the AI protagonist and will attempt help them to get further, explore the various rooms and interact with their surroundings. The player is intended to give directions and recommendations to this protagonist and observe what happens to the environment.
+> GRAQE is an experimental system taking the form of a multi-agent textual "escape game". In this system, the player will guide an AI agent through an environment and have this agent execute actions exploring further the surrounding environment. The player will get a grasp of the environment through their interactions with the AI protagonist and will attempt help them to get further, explore the various rooms and interact with their surroundings. The player is intended to give directions and recommendations to this protagonist and observe what happens to the environment.
+> ["*GRAQE - Guided Robot: Autonomous Quest for Escape*"](./report.pdf)
 
 ## Setup
 
